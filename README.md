@@ -16,6 +16,16 @@ https://github.com/sshuair/awesome-gis
 * https://github.com/Timthony/self_drive
 * https://github.com/deepfakes/faceswap
 
+# awesomeML-cn
+## 机器学习资源大全中文版
+https://github.com/jobbole/awesome-machine-learning-cn
+## Awesome Machine Learning Awesome
+https://github.com/josephmisiti/awesome-machine-learning
+## 自上而下的学习路线: 软件工程师的机器学习
+https://github.com/ZuzooVn/machine-learning-for-software-engineers/blob/master/README-zh-CN.md
+## Awesome Public Datasets
+https://github.com/awesomedata/awesome-public-datasets
+
 
 # games
 * https://github.com/leereilly/games
