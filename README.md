@@ -16,6 +16,7 @@
 * https://github.com/Timthony/self_drive
 * https://github.com/deepfakes/faceswap
 * https://github.com/MLEveryday/100-Days-Of-ML-Code
+* https://github.com/ZuzooVn/machine-learning-for-software-engineers
 
 # Deep Learning
 * https://github.com/poloclub/cnn-explainer
@@ -43,7 +44,7 @@
 * https://github.com/40t/go-sniffer.git
 * https://github.com/asciimoo/wuzz
 * https://github.com/shiyanhui/dht
-
+* https://github.com/rfyiamcool/share_ppt
 
 # dart & flutter 
 * https://github.com/kangshaojun/flutter-book
@@ -61,6 +62,7 @@
 
 
 # others
+* https://github.com/byoungd/English-level-up-tips-for-Chinese
 * https://github.com/lt94/MovieHeavens.git
 * https://github.com/xianhu/PSpider
 * https://github.com/chinese-poetry/chinese-poetry
