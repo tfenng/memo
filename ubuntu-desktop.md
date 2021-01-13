@@ -29,7 +29,7 @@ conda install ipykernel
 python -m ipykernel install --user --name=base
 ```
 
-#wine
+# wine
 ```
 sudo dpkg --add-architecture i386
 
