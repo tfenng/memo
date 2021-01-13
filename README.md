@@ -18,6 +18,7 @@
 * https://github.com/MLEveryday/100-Days-Of-ML-Code
 * https://github.com/ZuzooVn/machine-learning-for-software-engineers
 
+
 # Deep Learning
 * https://github.com/poloclub/cnn-explainer
 * https://github.com/scutan90/DeepLearning-500-questions
@@ -37,6 +38,8 @@
 * https://github.com/ownthink/KnowledgeGraphData
 * https://github.com/fighting41love/funNLP
 
+# python
+* https://github.com/jakevdp/PythonDataScienceHandbook
 
 # golang
 * https://github.com/Alikhll/golang-developer-roadmap/blob/master/i18n/zh-CN/ReadMe-zh-CN.md
