@@ -15,10 +15,12 @@
 * https://github.com/fastai/fastbook
 * https://github.com/Timthony/self_drive
 * https://github.com/deepfakes/faceswap
+* https://github.com/MLEveryday/100-Days-Of-ML-Code
 
 # Deep Learning
 * https://github.com/poloclub/cnn-explainer
 * https://github.com/scutan90/DeepLearning-500-questions
+* https://github.com/PaddlePaddle/models
     ## 机器学习资源大全中文版
     https://github.com/jobbole/awesome-machine-learning-cn
     ## Awesome Machine Learning Awesome
