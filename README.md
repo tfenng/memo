@@ -1,7 +1,7 @@
-# GIS
 
-https://github.com/sshuair/awesome-gis
-
+# common
+* https://github.com/kon9chunkit/GitHub-Chinese-Top-Charts
+* https://github.com/xingshaocheng/architect-awesome
 
 # CV
 * https://github.com/frombeijingwithlove/dlcv_for_beginners.git
@@ -16,31 +16,32 @@ https://github.com/sshuair/awesome-gis
 * https://github.com/Timthony/self_drive
 * https://github.com/deepfakes/faceswap
 
-# awesomeML-cn
-## 机器学习资源大全中文版
-https://github.com/jobbole/awesome-machine-learning-cn
-## Awesome Machine Learning Awesome
-https://github.com/josephmisiti/awesome-machine-learning
-## 自上而下的学习路线: 软件工程师的机器学习
-https://github.com/ZuzooVn/machine-learning-for-software-engineers/blob/master/README-zh-CN.md
-## Awesome Public Datasets
-https://github.com/awesomedata/awesome-public-datasets
+# Deep Learning
+* https://github.com/poloclub/cnn-explainer
+* https://github.com/scutan90/DeepLearning-500-questions
+    ## 机器学习资源大全中文版
+    https://github.com/jobbole/awesome-machine-learning-cn
+    ## Awesome Machine Learning Awesome
+    https://github.com/josephmisiti/awesome-machine-learning
+    ## 自上而下的学习路线: 软件工程师的机器学习
+    https://github.com/ZuzooVn/machine-learning-for-software-engineers/blob/master/README-zh-CN.md
+    ## Awesome Public Datasets
+    https://github.com/awesomedata/awesome-public-datasets
 
 
-# games
-* https://github.com/leereilly/games
-* https://openmw.org/
-* https://github.com/rwv/chinese-dos-games
+# NLP
+* https://github.com/SophonPlus/ChineseNlpCorpus
+* https://github.com/ownthink/KnowledgeGraphData
+* https://github.com/fighting41love/funNLP
+
 
 # golang
 * https://github.com/Alikhll/golang-developer-roadmap/blob/master/i18n/zh-CN/ReadMe-zh-CN.md
 * https://github.com/quii/learn-go-with-tests
 * https://github.com/40t/go-sniffer.git
 * https://github.com/asciimoo/wuzz
+* https://github.com/shiyanhui/dht
 
-
-# Architect
-* https://github.com/xingshaocheng/architect-awesome
 
 # dart & flutter 
 * https://github.com/kangshaojun/flutter-book
@@ -51,8 +52,14 @@ https://github.com/awesomedata/awesome-public-datasets
 * https://github.com/SAGARSURI/MyMovies
 
 
+# games
+* https://github.com/leereilly/games
+* https://openmw.org/
+* https://github.com/rwv/chinese-dos-games
+
 
 # others
 * https://github.com/lt94/MovieHeavens.git
 * https://github.com/xianhu/PSpider
 * https://github.com/chinese-poetry/chinese-poetry
+* https://github.com/sshuair/awesome-gis
