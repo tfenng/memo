@@ -49,6 +49,7 @@
 * https://github.com/asciimoo/wuzz
 * https://github.com/shiyanhui/dht
 * https://github.com/rfyiamcool/share_ppt
+* https://github.com/photoprism/photoprism
 
 # dart & flutter 
 * https://github.com/kangshaojun/flutter-book
