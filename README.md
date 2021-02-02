@@ -41,6 +41,7 @@
 # python
 * https://github.com/jakevdp/PythonDataScienceHandbook
 * https://github.com/fengdu78/Data-Science-Notes
+* https://github.com/wistbean/learn_python3_spider
 
 # golang
 * https://geektutu.com/post/gee.html
