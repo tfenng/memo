@@ -40,6 +40,7 @@
 
 # python
 * https://github.com/jakevdp/PythonDataScienceHandbook
+* https://github.com/fengdu78/Data-Science-Notes
 
 # golang
 * https://geektutu.com/post/gee.html
