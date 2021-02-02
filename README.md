@@ -17,6 +17,7 @@
 * https://github.com/deepfakes/faceswap
 * https://github.com/MLEveryday/100-Days-Of-ML-Code
 * https://github.com/ZuzooVn/machine-learning-for-software-engineers
+* https://github.com/ShusenTang/Dive-into-DL-PyTorch
 
 
 # Deep Learning
@@ -34,6 +35,7 @@
 
 
 # NLP
+* https://github.com/NLP-LOVE/ML-NLP
 * https://github.com/SophonPlus/ChineseNlpCorpus
 * https://github.com/ownthink/KnowledgeGraphData
 * https://github.com/fighting41love/funNLP
