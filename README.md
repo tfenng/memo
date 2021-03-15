@@ -2,6 +2,7 @@
 # common
 * https://github.com/kon9chunkit/GitHub-Chinese-Top-Charts
 * https://github.com/xingshaocheng/architect-awesome
+* https://github.com/byoungd/English-level-up-tips-for-Chinese
 
 # CV
 * https://github.com/frombeijingwithlove/dlcv_for_beginners.git
@@ -19,17 +20,20 @@
 * https://cg.cs.tsinghua.edu.cn/jittor/
 * https://course.fast.ai/
 * https://github.com/fastai/fastbook
+* https://github.com/PaddlePaddle/models
 * https://github.com/Timthony/self_drive
 * https://github.com/deepfakes/faceswap
 * https://github.com/MLEveryday/100-Days-Of-ML-Code
 * https://github.com/ZuzooVn/machine-learning-for-software-engineers
 * https://github.com/ShusenTang/Dive-into-DL-PyTorch
+* https://github.com/poloclub/cnn-explainer
+* https://github.com/scutan90/DeepLearning-500-questions
+
+# Awesome ML 
 * https://github.com/awesomedata/awesome-public-datasets
 * https://github.com/jobbole/awesome-machine-learning-cn
 * https://github.com/josephmisiti/awesome-machine-learning
-* https://github.com/poloclub/cnn-explainer
-* https://github.com/scutan90/DeepLearning-500-questions
-* https://github.com/PaddlePaddle/models
+
  
 
 # python
@@ -68,7 +72,7 @@
 
 
 # others
-* https://github.com/byoungd/English-level-up-tips-for-Chinese
+
 * https://github.com/lt94/MovieHeavens.git
 * https://github.com/xianhu/PSpider
 * https://github.com/chinese-poetry/chinese-poetry
