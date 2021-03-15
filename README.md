@@ -30,6 +30,7 @@
 * https://github.com/ShusenTang/Dive-into-DL-PyTorch
 * https://github.com/poloclub/cnn-explainer
 * https://github.com/scutan90/DeepLearning-500-questions
+* https://github.com/fengdu78/Dive-Into-Deep-Learning-PyTorch-PDF
 
 # Awesome ML 
 * https://github.com/awesomedata/awesome-public-datasets
@@ -44,6 +45,7 @@
 * https://github.com/wistbean/learn_python3_spider
 
 # golang
+* https://github.com/overnote/over-golang
 * https://geektutu.com/post/gee.html
 * https://github.com/Alikhll/golang-developer-roadmap/blob/master/i18n/zh-CN/ReadMe-zh-CN.md
 * https://chai2010.cn/advanced-go-programming-book/
