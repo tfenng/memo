@@ -18,21 +18,18 @@
 * https://github.com/MLEveryday/100-Days-Of-ML-Code
 * https://github.com/ZuzooVn/machine-learning-for-software-engineers
 * https://github.com/ShusenTang/Dive-into-DL-PyTorch
+* https://github.com/awesomedata/awesome-public-datasets
 
+    ## 机器学习资源大全中文版
+    https://github.com/jobbole/awesome-machine-learning-cn
+    ## Awesome Machine Learning Awesome
+    https://github.com/josephmisiti/awesome-machine-learning
 
 # Deep Learning
 * https://github.com/poloclub/cnn-explainer
 * https://github.com/scutan90/DeepLearning-500-questions
 * https://github.com/PaddlePaddle/models
-    ## 机器学习资源大全中文版
-    https://github.com/jobbole/awesome-machine-learning-cn
-    ## Awesome Machine Learning Awesome
-    https://github.com/josephmisiti/awesome-machine-learning
-    ## 自上而下的学习路线: 软件工程师的机器学习
-    https://github.com/ZuzooVn/machine-learning-for-software-engineers/blob/master/README-zh-CN.md
-    ## Awesome Public Datasets
-    https://github.com/awesomedata/awesome-public-datasets
-
+ 
 
 # NLP
 * https://github.com/NLP-LOVE/ML-NLP
