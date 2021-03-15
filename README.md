@@ -13,6 +13,8 @@
 * https://github.com/SophonPlus/ChineseNlpCorpus
 * https://github.com/ownthink/KnowledgeGraphData
 * https://github.com/fighting41love/funNLP
+* https://github.com/lancopku/pkuseg-python
+* https://github.com/isnowfy/snownlp
 
 # AI
 * https://github.com/exacity/deeplearningbook-chinese
