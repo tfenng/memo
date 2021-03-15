@@ -7,6 +7,12 @@
 * https://github.com/frombeijingwithlove/dlcv_for_beginners.git
 * https://github.com/jesolem/PCV.git
 
+# NLP
+* https://github.com/NLP-LOVE/ML-NLP
+* https://github.com/SophonPlus/ChineseNlpCorpus
+* https://github.com/ownthink/KnowledgeGraphData
+* https://github.com/fighting41love/funNLP
+
 # AI
 * https://github.com/exacity/deeplearningbook-chinese
 * https://ailearning.apachecn.org/
@@ -19,23 +25,12 @@
 * https://github.com/ZuzooVn/machine-learning-for-software-engineers
 * https://github.com/ShusenTang/Dive-into-DL-PyTorch
 * https://github.com/awesomedata/awesome-public-datasets
-
-    ## 机器学习资源大全中文版
-    https://github.com/jobbole/awesome-machine-learning-cn
-    ## Awesome Machine Learning Awesome
-    https://github.com/josephmisiti/awesome-machine-learning
-
-# Deep Learning
+* https://github.com/jobbole/awesome-machine-learning-cn
+* https://github.com/josephmisiti/awesome-machine-learning
 * https://github.com/poloclub/cnn-explainer
 * https://github.com/scutan90/DeepLearning-500-questions
 * https://github.com/PaddlePaddle/models
  
-
-# NLP
-* https://github.com/NLP-LOVE/ML-NLP
-* https://github.com/SophonPlus/ChineseNlpCorpus
-* https://github.com/ownthink/KnowledgeGraphData
-* https://github.com/fighting41love/funNLP
 
 # python
 * https://github.com/jakevdp/PythonDataScienceHandbook
@@ -67,11 +62,13 @@
 * https://openmw.org/
 * https://github.com/rwv/chinese-dos-games
 
+# GIS
+* https://github.com/sshuair/awesome-gis
+* https://www.osgeo.cn/
+
 
 # others
-* https://www.osgeo.cn/
 * https://github.com/byoungd/English-level-up-tips-for-Chinese
 * https://github.com/lt94/MovieHeavens.git
 * https://github.com/xianhu/PSpider
 * https://github.com/chinese-poetry/chinese-poetry
-* https://github.com/sshuair/awesome-gis
