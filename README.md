@@ -46,6 +46,7 @@
 
 # golang
 * https://github.com/overnote/over-golang
+* https://github.com/geektutu/7days-golang
 * https://geektutu.com/post/gee.html
 * https://github.com/Alikhll/golang-developer-roadmap/blob/master/i18n/zh-CN/ReadMe-zh-CN.md
 * https://chai2010.cn/advanced-go-programming-book/
