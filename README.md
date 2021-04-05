@@ -3,6 +3,7 @@
 * https://github.com/kon9chunkit/GitHub-Chinese-Top-Charts
 * https://github.com/xingshaocheng/architect-awesome
 * https://github.com/byoungd/English-level-up-tips-for-Chinese
+* https://github.com/hq450/fancyss_history_package
 
 # CV
 * https://github.com/frombeijingwithlove/dlcv_for_beginners.git
