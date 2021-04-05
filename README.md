@@ -18,6 +18,7 @@
 * https://github.com/isnowfy/snownlp
 
 # AI
+* https://github.com/AllenDowney/ThinkBayes
 * https://github.com/exacity/deeplearningbook-chinese
 * https://ailearning.apachecn.org/
 * https://cg.cs.tsinghua.edu.cn/jittor/
