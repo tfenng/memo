@@ -22,6 +22,7 @@
 * https://github.com/isnowfy/snownlp
 * https://github.com/yongzhuo/nlp_xiaojiang
 * https://github.com/CLUEbenchmark/CLUEDatasetSearch
+* https://github.com/graykode/nlp-roadmap 
 
 # AI
 * https://github.com/leerumor/ai-study
