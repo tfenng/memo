@@ -1,4 +1,7 @@
 
+# OpenCourse
+* https://github.com/elder-frog/OpenCourseCatalog
+
 # common
 * https://github.com/kon9chunkit/GitHub-Chinese-Top-Charts
 * https://github.com/xingshaocheng/architect-awesome
