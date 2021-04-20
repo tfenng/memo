@@ -20,10 +20,13 @@
 * https://github.com/fighting41love/funNLP
 * https://github.com/lancopku/pkuseg-python
 * https://github.com/isnowfy/snownlp
+* https://github.com/yongzhuo/nlp_xiaojiang
+* https://github.com/CLUEbenchmark/CLUEDatasetSearch
 
 # AI
 * https://github.com/leerumor/ai-study
 * https://github.com/AllenDowney/ThinkBayes
+* https://github.com/fengdu78/machine_learning_beginner
 * https://github.com/exacity/deeplearningbook-chinese
 * https://ailearning.apachecn.org/
 * https://cg.cs.tsinghua.edu.cn/jittor/
