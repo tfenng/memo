@@ -21,6 +21,7 @@
 * https://github.com/lancopku/pkuseg-python
 * https://github.com/isnowfy/snownlp
 * https://github.com/yongzhuo/nlp_xiaojiang
+* https://github.com/yongzhuo/Macropodus
 * https://github.com/CLUEbenchmark/CLUEDatasetSearch
 * https://github.com/graykode/nlp-roadmap 
 
