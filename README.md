@@ -13,6 +13,7 @@
 * https://github.com/jesolem/PCV.git
 
 # NLP
+* https://github.com/DA-southampton/NLP_ability
 * https://github.com/NLP-LOVE/ML-NLP
 * https://github.com/SophonPlus/ChineseNlpCorpus
 * https://github.com/ownthink/KnowledgeGraphData
